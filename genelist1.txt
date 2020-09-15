@@ -7,13 +7,14 @@ Cytoplasmic_FMR1_interacting_protein_2	CYFIP2	ENSGALG00000003818
 Family_with_sequence_similarity_(83H,174B,221A)	FAM83H,FAM174B,FAM221A	ENSGALG00000033118,NA,ENSGALG00000010977
 FK506_binding_proteins_(1B,4,14,15)	FKBP1B,FKBP4,FKBP14,FKBP15	ENSGALG00000016500,ENSGALG00000014331,ENSGALG00000011181,ENSGALG00000008838
 Heat_shock_proteins_(Hsp40,Hsp70)	NA*	NA*
-Hematopoietic_lineage_cell-specific_protein_(antigen_receptor_signaling)
-Immunoglobulin_receptors
-Interferon_stimulator,_α/β_receptor_2
-Interleukin_regulators/_receptors/_binding_&_associated_proteins_(2,3,8,10,11,12B,16,17B,18,23)
-Lymphocyte_antigens_(6E,75)
-Major_Histocompatibility_Complex,NFX1_(regulates_expression_of_MHC_II)
-Semaphorin_(modulates_immune_response_following_CNS_trauma)
-T-cell_related_(differentiation_protein_MAL;_receptors;_activators)
-Toll-like_receptor(5,7)
-Tumor_necrosis_factor_ligand_member_10_(induces_apoptosis)
+Hematopoietic_lineage_cell-specific_protein_(antigen_receptor_signaling)	NA	NA
+Immunoglobulin_receptors	NA	NA
+Interferon_stimulator,_α/β_receptor_2	TMEM173,IFNAR2	ENSGALG00000041129,ENSGALG00000041867
+Interleukin_regulators/_receptors/_binding_&_associated_proteins_(2,3,8,10,11,12B,16,17B,18,23) NA	NA
+Lymphocyte_antigens_(6E,75)	LY6E,LY75	ENSGALG00000041621,ENSGALG00000011153
+Major_Histocompatibility_Complex,NFX1_(regulates_expression_of_MHC_II)	 NFX1	ENSGALG00000043724
+Semaphorin_(modulates_immune_response_following_CNS_trauma)	NA
+T-cell_related_(differentiation_protein_MAL;_receptors;_activators)	NA
+Toll-like_receptor(5,7)	TLR5	ENSGALG00000009392
+Tumor_necrosis_factor_ligand_member_10_(induces_apoptosis)	TNFSF10	ENSGALG00000009179
+
