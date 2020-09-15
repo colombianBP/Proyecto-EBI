@@ -1,18 +1,20 @@
-Attractin
-Beta defensin gene cluster
-CD glycoproteins (1b-3, 4, 7, 8b, 59, 99, 101, 180, 200, 276)
-Contactin 3, 5
-Cytoplasmic FMR1 interacting protein 2 (CYFIP2)
-Family with sequence similarity 83H, 174B, 221A (associated with interleukin-8 secretion & viral loads)
-FK506 binding proteins 1B, 4, 14, 15
-Heat shock proteins (Hsp40, Hsp70)
-Hematopoietic lineage cell-specific protein (antigen receptor signaling)
-Immunoglobulin receptors
-Interferon stimulator and α/β receptor 2
-Interleukin regulators/ receptors/ binding & associated proteins (2, 3, 8, 10, 11, 12B, 16, 17B, 18, 23)
-Lymphocyte antigens (6E, 75)
-Major Histocompatibility Complex & NFX1 (regulates expression of MHC II)
-Semaphorin (modulates immune response following CNS trauma)
-T-cell related (differentiation protein MAL; receptors; activators)
-Toll-like receptor 5, 7
-Tumor necrosis factor ligand member 10 (induces apoptosis)
+OriginalDescription	GeneName	Functions	EnsemblVersion
+Attractin	ATRN	NA	ENSGALG00000016034.7
+Beta_defensin_gene_cluster	AvBD13,AvBD12,AvBD11,AvBD10,AvBD9,AvBD8,AvBD7,AvBD2,AvBD1,AvBD3,AvBD5,AvBD4,AvBD14	ENSGALG00000019848,ENSGALG00000019847,ENSGALG00000019846,ENSGALG00000016667,ENSGALG00000019845,ENSGALG00000019844,ENSGALG00000047285,ENSGALG00000016669,ENSGALG00000022815,ENSGALG00000016670,ENSGALG00000042193,ENSGALG00000019843,ENSGALG00000052020
+CD_glycoproteins_(1b-3,4,7,8b,59,99,101,180,200,276)	CD1B,CD4,	ENSGALG00000043052,ENSGALG00000014477,
+Contactin_(3,5)
+Cytoplasmic_FMR1_interacting_protein_2_(CYFIP2)
+Family_with_sequence_similarity_(83H,174B,221A)_(associated_with_interleukin-8_secretion_&_viral_loads)
+FK506_binding_proteins_(1B,4,14,15)
+Heat_shock_proteins_(Hsp40,Hsp70)
+Hematopoietic_lineage_cell-specific_protein_(antigen_receptor_signaling)
+Immunoglobulin_receptors
+Interferon_stimulator,_α/β_receptor_2
+Interleukin_regulators/_receptors/_binding_&_associated_proteins_(2,3,8,10,11,12B,16,17B,18,23)
+Lymphocyte_antigens_(6E,75)
+Major_Histocompatibility_Complex,NFX1_(regulates_expression_of_MHC_II)
+Semaphorin_(modulates_immune_response_following_CNS_trauma)
+T-cell_related_(differentiation_protein_MAL;_receptors;_activators)
+Toll-like_receptor(5,7)
+Tumor_necrosis_factor_ligand_member_10_(induces_apoptosis)
+
