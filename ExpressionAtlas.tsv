@@ -1,0 +1,34 @@
+Gene	Species	Experiment accession	Comparison	log_2 fold change	Adjusted p-value	t-statistic
+ENSGALG00000011551	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Leghorn' at '6 day'	4.5	1.12452156395664e-35	
+ENSGALG00000014754	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Leghorn' at '6 day'	4.3	3.62358842638238e-51	
+ENSGALG00000011551	gallus gallus	E-MTAB-6038	'Newcastle disease virus LaSota strain' vs 'none' in 'Leghorn' at '6 day'	3.8	0.00000437893421138974	
+ENSGALG00000000919	gallus gallus	E-MTAB-6038	'Newcastle disease virus LaSota strain' vs 'none' in 'Leghorn' at '6 day'	3.4	0.0000740836065919933	
+ENSGALG00000014754	gallus gallus	E-MTAB-6038	'Newcastle disease virus LaSota strain' vs 'none' in 'Leghorn' at '6 day'	3.1	0.0000176123764391577	
+ENSGALG00000000919	gallus gallus	E-MTAB-6038	'Newcastle disease virus LaSota strain' vs 'none' in 'Fayoumi' at '10 day'	-2.7	8.11482057452089e-7	
+ENSGALG00000014754	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Fayoumi' at '10 day'	2.5	7.95539252298927e-32	
+ENSGALG00000043654	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Leghorn' at '6 day'	2.5	1.35307121323408e-30	
+ENSGALG00000049589	gallus gallus	E-MTAB-2908	'H5N2' vs 'none' in 'ileum' at '3 day'	2.3	4.82721474888468e-9	
+ENSGALG00000014754	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Fayoumi' at '2 day'	2.3	0.000162575630302682	
+ENSGALG00000043654	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Fayoumi' at '2 day'	2.2	2.73548214561991e-8	
+ENSGALG00000011551	gallus gallus	E-MTAB-6038	'Newcastle disease virus LaSota strain' vs 'none' in 'Fayoumi' at '10 day'	-2.1	0.00117025183769781	
+ENSGALG00000014754	gallus gallus	E-MTAB-2908	'H5N2' vs 'none' in 'ileum' at '3 day'	2	3.84267741594253e-7	
+ENSGALG00000044547	gallus gallus	E-MTAB-5851	'Fayoumi resistant breed; Newcastle disease virus LaSota; 6 days' vs 'Leghorn susceptible breed'	-1.9	1.99406579056004e-7	
+ENSGALG00000014754	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Leghorn' at '2 day'	1.9	0.0318389677357988	
+ENSGALG00000043654	gallus gallus	E-MTAB-6038	'Newcastle disease virus LaSota strain' vs 'none' in 'Leghorn' at '6 day'	1.8	0.000182382281876954	
+ENSGALG00000011551	gallus gallus	E-MTAB-2908	'H5N2' vs 'none' in 'ileum' at '3 day'	1.6	8.7435230667758e-8	
+ENSGALG00000003899	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Fayoumi' at '2 day'	1.6	0.000474934547384366	
+ENSGALG00000049589	gallus gallus	E-MTAB-5851	'Fayoumi resistant breed; Newcastle disease virus LaSota; 2 days' vs 'Leghorn susceptible breed'	-1.4	8.35658780848333e-29	
+ENSGALG00000014754	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Fayoumi' at '6 day'	1.4	0.0000268899122587362	
+ENSGALG00000003899	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Leghorn' at '2 day'	1.4	0.0146604057038209	
+ENSGALG00000040159	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Leghorn' at '6 day'	1.4	0.0446632909963633	
+ENSGALG00000043654	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Leghorn' at '10 day'	1.3	0.00000879765019423991	
+ENSGALG00000044547	gallus gallus	E-MTAB-5851	'Fayoumi resistant breed; Newcastle disease virus LaSota; 2 days' vs 'Leghorn susceptible breed'	-1.3	0.0000679386616272101	
+ENSGALG00000049589	gallus gallus	E-MTAB-5851	'Fayoumi resistant breed; Newcastle disease virus LaSota; 6 days' vs 'Leghorn susceptible breed'	-1.2	1.03479900126596e-10	
+ENSGALG00000043654	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Fayoumi' at '10 day'	1.2	0.00000149857193749825	
+ENSGALG00000008340	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Leghorn' at '6 day'	1.2	0.000626810994846706	
+ENSGALG00000043654	gallus gallus	E-MTAB-2908	'H5N2' vs 'none' in 'ileum' at '3 day'	1.2	0.00303665450626152	
+ENSGALG00000008340	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Fayoumi' at '10 day'	1.1	1.57233623996144e-10	
+ENSGALG00000008340	gallus gallus	E-MTAB-5431	'Newcastle Disease Virus' vs 'control' in 'Fayoumi' at '2 day'	1.1	0.00194143173987591	
+ENSGALG00000000919	gallus gallus	E-MTAB-2910	'infectious bursal disease virus' vs 'control'	-1.1	0.017751880701413	
+ENSGALG00000043654	gallus gallus	E-MTAB-7276	'wild type genotype; Fowlpox virus' vs 'none; none'	-1	5.10689870594132e-9	
+ENSGALG00000043654	gallus gallus	E-MTAB-5455	'Fowlpox virus FP9' vs 'mock' at '8 hour'	-1	0.00252152354537151	
