@@ -1,0 +1,89 @@
+Gene	Species	Experiment accession	Comparison	log_2 fold change	Adjusted p-value	t-statistic
+ENSMUSG00000076612	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	6.3	0.00000895810056144328	
+ENSMUSG00000076615	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	5.8	0.000032212678883105	
+ENSMUSG00000076612	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	5.5	0.00630921784058514	
+ENSMUSG00000076615	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	4.7	0.0191786273685704	
+ENSMUSG00000096464	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	3.5	0.000163926876148159	
+ENSMUSG00000030144	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	3.3	0.000052362529515335	
+ENSMUSG00000095642	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	3.3	0.0197386950374731	
+ENSMUSG00000095285	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	3	0.0249393751092297	
+ENSMUSG00000095200	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.9	0.000767790581632965	
+ENSMUSG00000095571	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.9	0.0026716610286359	
+ENSMUSG00000067149	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.9	0.0158236380973453	
+ENSMUSG00000105906	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.9	0.0252768901787659	
+ENSMUSG00000095612	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.9	0.0292423669009765	
+ENSMUSG00000094088	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.8	0.000677000213839832	
+ENSMUSG00000095200	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.8	0.0227978514659986	
+ENSMUSG00000105906	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.7	0.000142586948502372	
+ENSMUSG00000076674	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.7	0.000297485130504221	
+ENSMUSG00000095285	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.7	0.00201600802649343	
+ENSMUSG00000096452	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.7	0.0256068653784182	
+ENSMUSG00000095571	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.7	0.0336701280416622	
+ENSMUSG00000095612	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.6	0.00166829718245868	
+ENSMUSG00000030144	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.5	0.000285957867602822	
+ENSMUSG00000096150	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.5	0.000790885931557877	
+ENSMUSG00000095130	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.5	0.00104203082095737	
+ENSMUSG00000076674	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.5	0.0151204888617457	
+ENSMUSG00000094102	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.5	0.0363131183686658	
+ENSMUSG00000096452	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.4	0.00153162634192837	
+ENSMUSG00000076937	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.4	0.0256066657697933	
+ENSMUSG00000094088	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.4	0.0276615856371026	
+ENSMUSG00000095583	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.4	0.0287520686909851	
+ENSMUSG00000094102	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.3	0.000217280702115215	
+ENSMUSG00000095642	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.3	0.00219309111167057	
+ENSMUSG00000026417	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	-2.2	0.0000211764711606789	
+ENSMUSG00000067149	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.2	0.000690144725803652	
+ENSMUSG00000076490	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.1	0.00116963895384501	
+ENSMUSG00000095863	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2.1	0.00163530571145937	
+ENSMUSG00000076498	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.1	0.00188293830051463	
+ENSMUSG00000095981	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2.1	0.0258611401877908	
+ENSMUSG00000076937	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2	0.000407389290479336	
+ENSMUSG00000096638	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	2	0.000649270546640184	
+ENSMUSG00000095863	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2	0.0283995951043998	
+ENSMUSG00000096150	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2	0.0365463498183312	
+ENSMUSG00000095130	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	2	0.037668832555484	
+ENSMUSG00000028874	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1.9	0.00274030053471236	
+ENSMUSG00000076677	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1.9	0.0256361738250278	
+ENSMUSG00000026304	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	-1.8	0.00027223681494118	
+ENSMUSG00000095981	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.8	0.0056583469696905	
+ENSMUSG00000076677	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.7	0.00504454801288385	
+ENSMUSG00000102364	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1.7	0.0362874025524583	
+ENSMUSG00000096464	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1.7	0.0427894068649436	
+ENSMUSG00000094164	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.6	0.000636345410246964	
+ENSMUSG00000053158	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1.6	0.00149976020889448	
+ENSMUSG00000026304	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	-1.6	0.00716242800158804	
+ENSMUSG00000102364	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.5	0.00168969901149535	
+ENSMUSG00000095079	mus musculus	E-MTAB-4791	'vaccination' vs 'adjuvant only' in 'Plasmodium chabaudi infection'	1.5	0.0288339773236418	
+ENSMUSG00000094198	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1.5	0.0401901541147888	
+ENSMUSG00000053158	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.4	0.0000609731559246183	
+ENSMUSG00000076731	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.4	0.00118943908886603	
+ENSMUSG00000076709	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.4	0.00230298561357448	
+ENSMUSG00000104213	mus musculus	E-MTAB-4791	'vaccination' vs 'adjuvant only' in 'Plasmodium chabaudi infection'	1.4	0.0196323416482339	
+ENSMUSG00000105906	mus musculus	E-MEXP-2594	'Plasmodium berghei' vs 'none' in 'none'	1.3	5.51023261142515e-7	
+ENSMUSG00000095519	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.3	0.00119584079949914	
+ENSMUSG00000094198	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.3	0.00456470927921148	
+ENSMUSG00000103033	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1.3	0.0384763012165692	
+ENSMUSG00000103033	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.2	0.000842214408849953	
+ENSMUSG00000104452	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.2	0.00159388230477839	
+ENSMUSG00000076709	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1.2	0.0235389855259527	
+ENSMUSG00000094164	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1.2	0.0294866362807008	
+ENSMUSG00000076490	mus musculus	E-MTAB-4791	'vaccination' vs 'adjuvant only' in 'Plasmodium chabaudi infection'	1.2	0.0317423618791661	
+ENSMUSG00000026417	mus musculus	E-MTAB-4791	'vaccination' vs 'adjuvant only' in 'Plasmodium chabaudi infection'	1.2	0.0391877336955414	
+ENSMUSG00000076498	mus musculus	E-MEXP-2594	'Plasmodium berghei' vs 'none' in 'none'	1.1	0.0000202903560724247	
+ENSMUSG00000094862	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.1	0.00227779082603717	
+ENSMUSG00000095583	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1.1	0.013919656832	
+ENSMUSG00000076498	mus musculus	E-MTAB-4791	'vaccination' vs 'adjuvant only' in 'Plasmodium chabaudi infection'	1.1	0.0466954142051499	
+ENSMUSG00000094694	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1.1	0.0472374616107793	
+ENSG00000198019	homo sapiens	E-GEOD-52166	'Plasmodium falciparum' vs 'none'	1	4.00757185643375e-19	
+ENSMUSG00000076617	mus musculus	E-MEXP-2594	'Plasmodium berghei' vs 'none' in 'none'	1	0.000544748239389649	
+ENSMUSG00000095079	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	-1	0.00260415261209239	
+ENSMUSG00000094694	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1	0.00619852340983204	
+ENSMUSG00000094051	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1	0.00678180943684849	
+ENSMUSG00000026417	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	-1	0.016382009851479	
+ENSMUSG00000094134	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1	0.027337979156127	
+ENSMUSG00000094787	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1	0.0280984528771505	
+ENSMUSG00000095519	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1	0.0319108942883618	
+ENSMUSG00000095700	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'adjuvant only'	1	0.0349300996585809	
+ENSMUSG00000076672	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1	0.0460433464097862	
+ENSMUSG00000095700	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1	0.0478347110519519	
+ENSMUSG00000094075	mus musculus	E-MTAB-4791	'Plasmodium chabaudi infection' vs 'no infection' in 'vaccination'	1	0.0481382001613415	
