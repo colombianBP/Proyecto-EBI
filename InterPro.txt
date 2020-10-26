@@ -1,3 +1,4 @@
+Busqueda  Entrada Descripcion BP  MF  CC
 Attractin	IPR034011	Human attractin (hAtrN) has been shown to be expressed on activated T cells and released extracellularly. The circulating serum attractin induces the spreading of monocytes that become the focus of the clustering of non-proliferating T cells
 Beta-defensin	IPR025933	Defensins are produced constitutively and/or in response to microbial products or proinflammatory cytokines.	innate immune response (GO:0045087)
 Contactin	IPR032989	Contactins are cell adhesion molecules that belong to the immunoglobulin superfamily and are involved in neural development [1]. They usually consist of six N-terminal Ig domains, four fibronectin type III domains, and a C-terminal glycophosphatidylinositol (GPI)-anchor to the extracellular part of the cell membrane
