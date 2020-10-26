@@ -11,4 +11,6 @@ ExpressionAtlasGallus.tsv contiene la lista de genes expresados diferencialmente
 
 HemignathusVirensGenome.tar es el genoma comprimido de nuestro organismo de interés, El amakihi de Hawái
 
+InterPro.txt tiene los resultados de la busqueda mediante InterPro
+
 
